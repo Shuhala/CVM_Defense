@@ -1,7 +1,5 @@
 Dans le cadre du cours de gestion de projet en automne 2015, 3 collègues et moi-même avons eu le mandat de créer un jeu de type Tower Defense. Ce projet a été réalisé dans une période d'environ 1 mois en python, un langage dans lequel la majorité d'entre nous avions peu ou pas d'expérience.
 
-![Intro](./images/intro.png?raw=true "CVM en grève")
-
 ## Lancement du jeu
 Exécuter le fichier main.py avec votre version de Python favori.
 
@@ -14,3 +12,6 @@ Exécuter le fichier main.py avec votre version de Python favori.
 - Chaque gréviste exterminé rapporte des carrés rouges pouvant être utilisé comme monnaie d'échange dans le jeu.
 - Vous devez passer à travers des 50 niveaux pour éviter la GGI.
 - À chaque partie, un nouveau sentier et une nouvelle répartition des arbres permettant un nouveau défi !
+
+
+![Intro](./images/intro.png?raw=true "CVM en grève")
