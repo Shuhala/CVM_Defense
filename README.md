@@ -1,7 +1,10 @@
 Dans le cadre du cours de gestion de projet en automne 2015, 3 collègues et moi-même avons eu le mandat de créer un jeu de type Tower Defense. Ce projet a été réalisé dans une période d'environ 1 mois en python, un langage dans lequel la majorité d'entre nous avions peu ou pas d'expérience.
 
+## Dépendance
+sudo apt-get install python3-tk
+
 ## Lancement du jeu
-Exécuter le fichier main.py avec votre version de Python favori.
+python main.py
 
 ## Gameplay
 - Pour démarrer la partie, appuyer sur Start / Pause .
